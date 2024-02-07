@@ -1,0 +1,21 @@
+email: "souvikhaldar@thedefiant.in"
+phone: "+91 8653149116"
+businessName: "Hugo Serif"
+address: |
+  WEBEL-BCC&I Tech Incubation Centre Module 232, 1st Floor, SDF Building, Block EP & GP, Salt Lake Sector V, Kolkata- 700091
+hours:
+  - day: Monday
+    open: 8:30am
+    close: 5:00pm
+  - day: Tuesday
+    open: 8:30am
+    close: 5:00pm
+  - day: Wednesday
+    open: 8:30am
+    close: 5:00pm
+  - day: Thursday
+    open: 8:30am
+    close: 5:00pm
+  - day: Friday
+    open: 8:30am
+    close: 5:00pm

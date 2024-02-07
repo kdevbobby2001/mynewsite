@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Defiant - Empowering Businesses with Innovative dApps, Full-Stack Web and Mobile Applications, and Fortified Cybersecurity Solutions</title>
+    <link>https://www.thedefiant.in/</link>
+    <description>Recent content in Home on Defiant - Empowering Businesses with Innovative dApps, Full-Stack Web and Mobile Applications, and Fortified Cybersecurity Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Feb 2018 15:37:57 +0700</lastBuildDate><atom:link href="https://www.thedefiant.in/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockchain based dApp</title>
+      <link>https://www.thedefiant.in/work/dapp/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.thedefiant.in/work/dapp/</guid>
+      <description>Blockchain-based decentralized application (dApp) is a software application that operates on a blockchain network, utilizing the principles of decentralization and distributed ledger technology. Decentralized Application are not controlled by a single entity, but rather run on a decentralized network of nodes, ensuring transparency, security, and immutability of data. Smart contracts, self-executing code on the blockchain, often power these dApps, enabling trustless and tamper-proof transactions. Users can interact with these applications without the need for intermediaries, fostering a more inclusive and efficient ecosystem across various industries, from finance to supply chain management.</description>
+    </item>
+    
+    <item>
+      <title>Hornet</title>
+      <link>https://www.thedefiant.in/services/hornet/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.thedefiant.in/services/hornet/</guid>
+      <description>Most of the payments for illegal activities on the Dark Web are done in cryptocurrencies like bitcoin, Ethereum, etc. because of the anonymity it provides. By regularly monitoring the transactions on the blockchain we can identify and take precautionary steps against the activity. But no such indigenous tool exists! We are here to build the software suite that can enable the military with that required intelligence.
+&amp;ldquo;Hornet&amp;rdquo; is the wasp which can see in the dark and we the &amp;ldquo;Hornet&amp;rdquo; can see in the dark-web!</description>
+    </item>
+    
+    <item>
+      <title>Mr Bin: The Smart Bin</title>
+      <link>https://www.thedefiant.in/services/bin/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.thedefiant.in/services/bin/</guid>
+      <description>Smart waste management is an idea where we can control lots of problems like dirtiness, pollution and disease, by regularly cleaning up the waste bins only when required, not otherwise. The waste management has to be done instantly else it leads to irregular management which will have adverse effect on nature. The smart waste management is compatible mainly with the concept of smart cities.
+Mr Bin: The Smart Bin The traditional way of manually monitoring the wastes is a time consuming and complex process which requires lots of human efforts.</description>
+    </item>
+    
+    <item>
+      <title>VAPT as services</title>
+      <link>https://www.thedefiant.in/work/vapt/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.thedefiant.in/work/vapt/</guid>
+      <description>Vulnerability Assessment and Penetration Testing (VAPT) services are crucial components of cybersecurity strategies. VAPT involves a systematic evaluation of a system&amp;rsquo;s security posture, identifying potential vulnerabilities through assessments and simulating real-world cyber attacks to gauge the effectiveness of existing defenses. These services provide organizations with insights into their vulnerabilities, enabling them to proactively address weaknesses before they can be exploited maliciously. VAPT not only helps in strengthening cybersecurity measures but also ensures compliance with industry standards and regulations.</description>
+    </item>
+    
+    <item>
+      <title>Webapp development</title>
+      <link>https://www.thedefiant.in/work/web/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.thedefiant.in/work/web/</guid>
+      <description>Web development is the process of creating interactive and dynamic software applications that operate through web browsers. This involves a combination of frontend development, focusing on user interfaces and experiences, and backend development, managing server-side logic and database functionality. Web apps are accessible across various devices, making them versatile and user-friendly. Developers use programming languages such as HTML, CSS, and JavaScript for frontend, while backend technologies like Golang, Postgres, or Ruby on Rails handle server-side operations.</description>
+    </item>
+    
+    <item>
+      <title>Mobile App Development</title>
+      <link>https://www.thedefiant.in/work/mobile/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.thedefiant.in/work/mobile/</guid>
+      <description>Mobile App development is the process of creating software applications specifically designed to run on mobile devices such as smartphones and tablets. It involves a combination of frontend development for the user interface and backend development to handle data storage and processing. Mobile app developers use programming languages like Java, Swift, or Kotlin for native apps, while frameworks like React Native or Flutter offer cross-platform development options. The goal is to provide users with a seamless and optimized experience on their mobile devices, considering factors such as responsiveness, usability, and performance.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://www.thedefiant.in/about/</link>
+      <pubDate>Thu, 06 Dec 2018 09:29:16 +1000</pubDate>
+      
+      <guid>https://www.thedefiant.in/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.thedefiant.in/history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.thedefiant.in/history/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

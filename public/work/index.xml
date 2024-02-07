@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Services on Defiant - Empowering Businesses with Innovative dApps, Full-Stack Web and Mobile Applications, and Fortified Cybersecurity Solutions</title>
+    <link>https://www.thedefiant.in/work/</link>
+    <description>Recent content in Our Services on Defiant - Empowering Businesses with Innovative dApps, Full-Stack Web and Mobile Applications, and Fortified Cybersecurity Solutions</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 10 Feb 2018 11:52:18 +0700</lastBuildDate><atom:link href="https://www.thedefiant.in/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockchain based dApp</title>
+      <link>https://www.thedefiant.in/work/dapp/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.thedefiant.in/work/dapp/</guid>
+      <description>Blockchain-based decentralized application (dApp) is a software application that operates on a blockchain network, utilizing the principles of decentralization and distributed ledger technology. Decentralized Application are not controlled by a single entity, but rather run on a decentralized network of nodes, ensuring transparency, security, and immutability of data. Smart contracts, self-executing code on the blockchain, often power these dApps, enabling trustless and tamper-proof transactions. Users can interact with these applications without the need for intermediaries, fostering a more inclusive and efficient ecosystem across various industries, from finance to supply chain management.</description>
+    </item>
+    
+    <item>
+      <title>VAPT as services</title>
+      <link>https://www.thedefiant.in/work/vapt/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.thedefiant.in/work/vapt/</guid>
+      <description>Vulnerability Assessment and Penetration Testing (VAPT) services are crucial components of cybersecurity strategies. VAPT involves a systematic evaluation of a system&amp;rsquo;s security posture, identifying potential vulnerabilities through assessments and simulating real-world cyber attacks to gauge the effectiveness of existing defenses. These services provide organizations with insights into their vulnerabilities, enabling them to proactively address weaknesses before they can be exploited maliciously. VAPT not only helps in strengthening cybersecurity measures but also ensures compliance with industry standards and regulations.</description>
+    </item>
+    
+    <item>
+      <title>Webapp development</title>
+      <link>https://www.thedefiant.in/work/web/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.thedefiant.in/work/web/</guid>
+      <description>Web development is the process of creating interactive and dynamic software applications that operate through web browsers. This involves a combination of frontend development, focusing on user interfaces and experiences, and backend development, managing server-side logic and database functionality. Web apps are accessible across various devices, making them versatile and user-friendly. Developers use programming languages such as HTML, CSS, and JavaScript for frontend, while backend technologies like Golang, Postgres, or Ruby on Rails handle server-side operations.</description>
+    </item>
+    
+    <item>
+      <title>Mobile App Development</title>
+      <link>https://www.thedefiant.in/work/mobile/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>https://www.thedefiant.in/work/mobile/</guid>
+      <description>Mobile App development is the process of creating software applications specifically designed to run on mobile devices such as smartphones and tablets. It involves a combination of frontend development for the user interface and backend development to handle data storage and processing. Mobile app developers use programming languages like Java, Swift, or Kotlin for native apps, while frameworks like React Native or Flutter offer cross-platform development options. The goal is to provide users with a seamless and optimized experience on their mobile devices, considering factors such as responsiveness, usability, and performance.</description>
+    </item>
+    
+  </channel>
+</rss>

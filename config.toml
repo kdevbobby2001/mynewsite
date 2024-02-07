@@ -1,0 +1,58 @@
+baseURL = "https://www.thedefiant.in/"
+languageCode = "en-us"
+title = "Defiant - Empowering Businesses with Innovative dApps, Full-Stack Web and Mobile Applications, and Fortified Cybersecurity Solutions"
+description = "Defiant is a leading technology solutions provider, specializing in blockchain development, decentralized applications (dApps), full-stack web applications, and robust cybersecurity services. Our expert team offers customized dApp solutions, smart contract development, UI/UX design, frontend and backend development, and thorough security audits. We excel in vulnerability assessment, penetration testing, web application security testing, network security testing, mobile application security testing, and social engineering assessments. Collaborate with us to build secure, scalable, and innovative dApps, full-stack web applications, and mobile applications, and fortify your digital ecosystem with top-notch cybersecurity services."
+theme = "hugo-hero-theme"
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.92.0"
+    
+[params]
+  google_analytics_id=""
+
+  [params.logo]
+    mobile = "/About/small.png"
+    mobile_height = "36px"
+    mobile_width = "36px"
+    desktop = "/About/logo.png"
+    desktop_height = "29px"
+    desktop_width = "217px"
+    alt = "Defiant Logo"
+
+  [params.homepage_meta_tags]
+    meta_description = "Defiant is a leading technology solutions provider, specializing in blockchain development, decentralized applications (dApps), full-stack web applications, and robust cybersecurity services. Our expert team offers customized dApp solutions, smart contract development, UI/UX design, frontend and backend development, and thorough security audits. We excel in vulnerability assessment, penetration testing, web application security testing, network security testing, mobile application security testing, and social engineering assessments. Collaborate with us to build secure, scalable, and innovative dApps, full-stack web applications, and mobile applications, and fortify your digital ecosystem with top-notch cybersecurity services."
+    meta_og_title = "Defiant Decentratech Private Limited"
+    meta_og_type = "website"
+    meta_og_url = ""
+    meta_og_image = ""
+    meta_og_description = ""
+    meta_twitter_card = "summary"
+    meta_twitter_site = ""
+    meta_twitter_creator = ""
+
+[[menu.main]]
+	name = "Product"
+	url = "/services/"
+    weight = 1
+
+[[menu.main]]
+    name = "Services"
+    url = "/work/"
+    weight = 2
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+
+[[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 4
+
+[permalinks]
+  post = "/:year/:month/:day/:slug/"
+  pages = "/:filename/"
